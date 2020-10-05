@@ -86,6 +86,10 @@ img {
   color: var(--danger-color);
 }
 
+.aText {
+  color: #fff;
+}
+
 .text-center {
   text-align: center;
 }
@@ -374,6 +378,11 @@ table th {
 
 .navbar .welcome span {
   margin-right: 0.6rem;
+}
+
+/*display*/
+.flex {
+  display: flex;
 }
 
 /* Mobile Styles */
