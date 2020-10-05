@@ -26,7 +26,7 @@ const Search = () => {
         <input
           type='text'
           name='text'
-          placeholder='Search Users...'
+          placeholder='사용자를 입력하세요'
           value={text}
           onChange={onChange}
         />
